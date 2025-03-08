@@ -3,6 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   base: "/FilmVault/",
-  base: "/FilmVault/",
   plugins: [react()],
 });

@@ -12,7 +12,6 @@
      "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
   },
-  "homepage":"https://prateektiwari711.github.io/FilmVault/",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.7.2",
     "@fortawesome/fontawesome-svg-core": "^6.7.2",

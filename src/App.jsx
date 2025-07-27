@@ -21,7 +21,7 @@ function App() {
       <Navbar />
       <Routes>
         <Route
-          path="/"
+          path="/FilmVault/"
           element={
             <>
               <Banner />

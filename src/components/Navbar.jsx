@@ -7,7 +7,7 @@ function Navbar() {
     <div className="flex space-x-7 border items-center p-[4px] w-full">
       <img className="w-[50px] text-bold" src={Logo} alt="" />
       <span className="text-3xl font-bold">FilmVault</span>
-      <Link to="/" className="text-2xl font-bold">
+      <Link to="/FilmVault/" className="text-2xl font-bold">
         Movies
       </Link>
       <Link to="/watchlist" className="text-2xl font-bold">
